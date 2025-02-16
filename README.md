@@ -1,0 +1,1 @@
+This repository contains examples of uncommon error scenarios in Python and how to handle them effectively.  The `bug.py` file demonstrates errors related to complex numbers, and potential issues with float exceptions. The `bugSolution.py` offers an improved solution.
